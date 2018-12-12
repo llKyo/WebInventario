@@ -1,0 +1,11 @@
+.sidebar.toggled .nav-item .nav-link span {
+    font-size: 0.98rem;
+    display: block;
+  }
+  .sidebar.toggled {
+      overflow: visible;
+      width: 110px !important;
+    }
+.sidebar.toggled .nav-item .nav-link i {
+    font-size: 1.6rem;
+  }
